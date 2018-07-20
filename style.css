@@ -1,0 +1,37 @@
+body {
+    background-color: #efeee7;
+    font: Georgia;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #eee;
+    font-size: 28px;
+    background-color: black;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+#bio-image {
+    float: left;
+    width: 200px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.main-bio {
+    float: left;
+    width: 70%;
+}
+
+.contact-info {
+    width: 30%;
+    float: left;
+    
+}
